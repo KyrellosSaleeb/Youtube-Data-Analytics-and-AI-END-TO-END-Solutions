@@ -7,7 +7,7 @@ The goal is to build a **data warehouse architecture** that ingests raw files, t
 This project was completed as part of my training in **Global Brand Solutions Academy**.  
 
 ## 🔎 Project Overview  
-1. **Getting the Data (SSIS)** → Extracted CSV files for Canada, US, and Brazil.  
+1. **Getting the Data (SSIS)** → Extracted CSV files for (Canada, US, and Brazil).  
 2. **ODS Layer (SSIS)** → Loaded raw data into the ODS as the initial layer.  
 3. **STG Layer (SSIS)** → Performed cleansing, data conversion, and standardization.  
 4. **DWH Layer (SSIS)** → Built star schema, added surrogate keys, and created lookups between Fact & Dimensions.  
