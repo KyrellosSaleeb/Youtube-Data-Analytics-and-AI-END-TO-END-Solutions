@@ -1,4 +1,4 @@
-# YouTube Trending Video Analysis (Data Engineering Project)
+# YouTube Trending Video Analytics – End-to-End BI & AI Data Engineering Solution
 
 ## 📌 Project Description  
 This project is an end-to-end **on-premise Data Engineering pipeline** built using Microsoft technologies. It uses the **YouTube Trending Video Dataset** from Kaggle, focusing on data from **Canada, the United States, and Brazil**.  
