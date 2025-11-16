@@ -116,10 +116,10 @@ The dashboard was designed with **two pages**, providing insights into:
   <a href="YK Analysis Agent/rag_llm.py">
     <img src="https://img.shields.io/badge/Python-Agent_Code-blue?logo=python" alt="Python Agent Code">
   </a>
-  <a href="DataFiles/YouTube_Trending_Video_Dataset_Full_Report.pdf">
+  <a href="YK Analysis Agent/RAG Documentation/YouTube_Trending_Video_Dataset_Full_Report.pdf">
     <img src="https://img.shields.io/badge/RAG-Source_PDF-red?logo=adobeacrobatreader" alt="RAG Source PDF">
   </a>
-  <a href="./">
+  <a href="YK Analysis Agent">
     <img src="https://img.shields.io/badge/Project-Agent_Folder-grey?logo=folder" alt="Agent Project Folder">
   </a>
 </p>
